@@ -1,1 +1,1 @@
-# CPU mining
+
